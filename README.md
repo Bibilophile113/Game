@@ -12,6 +12,8 @@ MAP
 STATS
   define stats
     health - dammage take before game end
+      maxHealth
+      health - needed split
     physical attack - type of damage dealt
     physical defence - block/reduce? same type of damage - limit?
     magical attack - type of damage dealt
